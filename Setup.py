@@ -4,7 +4,7 @@ with open('README.md', 'r') as file:
 	long_description = file.read()
 
 setuptools.setup(name = 'text_preprocessing',
-	             version = '0.0.3',
+	             version = '0.0.4',
 	             auther = 'Sejal', 
 	             auther_email = 'sejalpatel133@gmail.com',
 	             description = 'This is text preprocessing package',
