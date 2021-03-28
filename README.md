@@ -3,8 +3,8 @@
 This Python package is prepared for Education purpose only. 
 
 Install: 
-`pip install git+ssh://git@github.com/SejalPatel-2912/Text_preprocessing.git`
+`pip install git+ssh://git@github.com:SejalPatel-2912/text_preprocessing.git`
 
 Uninstall:
-`pip uninstall Text_preprocessing`
+`pip uninstall text_preprocessing`
 
