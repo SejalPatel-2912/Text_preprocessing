@@ -12,5 +12,5 @@ setuptools.setup(name = 'text_preprocessing',
 	             long_description_content_type = 'text/markdown',
 	             package = setuptools.find_packages(),
 	             classifiers = ['Programming Language :: Python :: 3', 
-	                             'Operating system :: OS Independent']
+	                             'Operating system :: OS Independent'],
 	             python_requires = '>=3.5')
