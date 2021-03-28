@@ -1,6 +1,6 @@
 from text_preprocessing import utils
 
-__version__ = '0.0.1'
+__version__ = '0.0.2'
 
 def get_wordcounts(x):
 	return utils._get_wordcounts(x)
